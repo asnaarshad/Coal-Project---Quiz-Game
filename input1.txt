@@ -1,0 +1,50 @@
+Q1).How many sides are there in a hexagon?
+1) 6
+2) 2
+3) 3
+4) 5
+Q2).Area of a rectangle with L=4 and B=3
+1) 7
+2) 14
+3) 16
+4) 12
+Q3).Name of current president of America
+1)BArrayAak Obama
+2)Joe Bidden 
+3)Trump 
+4)Henry Clinton
+Q4).If speed of car is 10km/h, how far will it reach in 3 hours?
+1) 25km
+2) 30km
+3) 13km
+4) 50km
+Q5).How many continents are there on Earth
+1) 20
+2) 15
+3) 7
+4) 50
+Q6).Who was the first man on moon?
+1)Lance Armstrong
+2)George Washington
+3)Neil Armstrong
+4)Newton
+Q7).How many months in a year have 28 days
+1) 1 
+2) 3
+3) 4
+4) 1,once in every 4 years
+Q8).Which one of the following produces honey?
+1) Wasp
+2) Bee
+3) Hornet
+4) Flying ant
+Q9).If the time is 9pm, and duration of flight is 6 hours, what will be the time at arrival?
+1) 2pm
+2) 6pm
+3) 9am
+4) 3am
+Q10).What is the value of 20mod2?
+1) 10
+2) 5
+3) 0
+4) 1

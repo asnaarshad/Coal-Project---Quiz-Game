@@ -1,0 +1,50 @@
+Q1).What will be the next number in series 39,42,48,? 
+1) 59
+2) 60
+3) 82
+4) 23
+Q2).What number comletes best analogy: 8:4 as 10:
+1) 30
+2) 2
+3) 24
+4) 5
+Q3).A bat and a ball together cost $1.10. The bat costs $1 more than the ball. How much does the ball cost?
+1) 3 cents
+2) 4 cents 
+3) 5 cents 
+4) 6 cents
+Q4).If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?
+1) 5 minutes
+2) 10 minutes
+3) 20 minutes
+4) 30 minutes
+Q5).At a conference, 12 members shook hands with each other before & after the meeting. How many total number of hand shakes occurred?
+1) 130
+2) 132
+3) 142
+4) 144
+Q6).Forest is to tree as tree is to ?
+1) Plant
+2) Leaf
+3) Branch
+4) Mangrove
+Q7).The day after the day after tomorrow is four days before Monday. What day is it today?
+1) Monday
+2) Tuesday
+3) Wednesday
+4) Saturday
+Q8).Complete this series of numbers: 9 = 4, 21 = 9, 22 = 9, 24 = 10, 8 = 5, 7 = 5, 99 = 10, 100 = 7, 17 =?
+1) 9
+2) 8
+3) 7
+4) 6
+Q9).What is the maximum number of times a single page of a newspaper can be folded in half by hand?
+1) 1
+2) 3
+3) 4
+4) 6
+Q10).If you divide 30 by half and add ten, what do you get?
+1) 5
+2) 35
+3) 65
+4) 70
